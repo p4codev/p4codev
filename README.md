@@ -6,8 +6,8 @@
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=pacocoral&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacocoral&layout=compact&hide=html&theme=radical" alt="developer-guy"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=p4codev&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4codev&layout=compact&hide=html&theme=radical" alt="developer-guy"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
