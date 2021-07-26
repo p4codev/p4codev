@@ -2,7 +2,7 @@
 <h2 align="center">Hi there, I'm Alexander Coral 👋</h2> 
 <h4 align="center">Hi, I'm Alexander Coral , a Developer 🚀 from Ecuador, but I describes myself as a Technology Entusiast, Life-Long Learner !!</h4>
 
-![](https://komarev.com/ghpvc/?username=pacocoral&color=green&&style=flat)
+![](https://komarev.com/ghpvc/?username=pacocoral&color=blue&&style=flat)
 
 ### :octocat: Github Statistics
 <p align="left">
