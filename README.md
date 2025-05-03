@@ -13,15 +13,23 @@
 
 
   
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center"> Technologies Used</h2>
 
-<h2 align="left"> Interface Design</h2>
+<h3 align="left"> Frontend</h3>
 <p align="center"> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,azure,bash,bootstrap,cs,cpp,debian,django,docker,dotnet,figma,flask,gcp,git,github,java,kali,jquery,laravel,linux,mysql,netlify,nodejs,notion,npm,php,postgres,powershell,py,react,sass,sqlite,selenium,laravel,symfony,tailwind,ts,wordpress,)](#)  
+
 </p>
+
+<h3 align="left"> Backend</h3>
+<p align="center"> 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,azure,bash,bootstrap,cs,cpp,debian,django,docker,dotnet,figma,flask,gcp,git,github,java,kali,jquery,laravel,linux,mysql,netlify,nodejs,notion,npm,php,postgres,powershell,py,react,sass,sqlite,selenium,laravel,symfony,tailwind,ts,wordpress,)](#)
+  
+</p>
+
+
 
 <h2 align="left"> Frontend Development</h2>
 <p align="center"> 
