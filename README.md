@@ -6,7 +6,7 @@
 
 <h2 align="center"> Technologies Used</h2>
 
-<h3 align="center"> Frontend</h3>
+<h3 align="lef"> Frontend</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +25,12 @@ i=nodejs,bash,cs,docker,dotnet,flask,gcp,java,jquery,laravel,linux,mysql,npm,php
   </a>
 </p>
 
-  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=pacocoral&color=blue&&style=flat)
