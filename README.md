@@ -4,6 +4,23 @@
 <img src="https://i.pinimg.com/originals/74/72/34/7472349a990e2e2cf0124eafc9b5faf0.gif" width=100%>
 <h4 align="center">Hi, I'm Alexander Coral , a Developer 🚀 from Ecuador, but I describes myself as a Technology Entusiast, Life-Long Learner !!</h4>
 
+<h2 align="center"> Technologies Used</h2>
+
+<h3 align="left"> Frontend</h3>
+<p align="center"> 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,react,sass,tailwind,ts)](#)
+
+</p>
+
+<h3 align="left"> Backend</h3>
+<p align="center"> 
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,azure,bash,cs,django,docker,dotnet,flask,gcp,java,jquery,laravel,linux,mysql,npm,php,postgres,powershell,py,sqlite,selenium,laravel,symfony,wordpress)](#)  
+  
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=pacocoral&color=blue&&style=flat)
 
 ### :octocat: Github Statistics
@@ -13,21 +30,6 @@
 
 
   
-<h2 align="center"> Technologies Used</h2>
-
-<h3 align="left"> Frontend</h3>
-<p align="center"> 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,azure,bash,bootstrap,cs,cpp,debian,django,docker,dotnet,figma,flask,gcp,git,github,java,kali,jquery,laravel,linux,mysql,netlify,nodejs,notion,npm,php,postgres,powershell,py,react,sass,sqlite,selenium,laravel,symfony,tailwind,ts,wordpress,)](#)  
-
-</p>
-
-<h3 align="left"> Backend</h3>
-<p align="center"> 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,azure,bash,bootstrap,cs,cpp,debian,django,docker,dotnet,figma,flask,gcp,git,github,java,kali,jquery,laravel,linux,mysql,netlify,nodejs,notion,npm,php,postgres,powershell,py,react,sass,sqlite,selenium,laravel,symfony,tailwind,ts,wordpress,)](#)
-  
-</p>
 
 
 
