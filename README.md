@@ -9,7 +9,9 @@
 <h3 align="left"> Frontend</h3>
 <p align="center"> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,react,sass,tailwind,ts)](#)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,react,sass,tailwind,ts&perline=8)](#)
 
 </p>
 
