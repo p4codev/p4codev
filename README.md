@@ -18,7 +18,7 @@
 <h3 align="left"> Backend</h3>
 <p align="center"> 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bash,cs,docker,dotnet,flask,gcp,java,jquery,laravel,linux,mysql,npm,php,postgres,powershell,django,py,sqlite,selenium,laravel,symfony,wordpress,aws,azure,gcp)](#)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bash,cs,docker,dotnet,flask,gcp,java,jquery,laravel,linux,mysql,npm,php,postgres,powershell,django,py,sqlite,selenium,laravel,symfony,wordpress,aws,azure,gcp&perline=8)](#)  
   
 </p>
 
