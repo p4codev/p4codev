@@ -6,12 +6,11 @@
 
 <h2 align="center"> Technologies Used</h2>
 
-<h3 align="lef"> Frontend</h3>
+<h3 align="center"> Frontend</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,react,sass,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,react,sass,tailwind,ts&perline=8" />
   </a>
 </p>
 
@@ -20,15 +19,7 @@ i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,re
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-i=nodejs,bash,cs,docker,dotnet,flask,gcp,java,jquery,laravel,linux,mysql,npm,php,postgres,powershell,django,py,sqlite,selenium,laravel,symfony,wordpress,aws,azure,gcp" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bash,cs,docker,dotnet,flask,gcp,java,jquery,laravel,linux,mysql,npm,php,postgres,powershell,django,py,sqlite,selenium,laravel,symfony,wordpress,aws,azure,gcp&perline=10" />
   </a>
 </p>
 
