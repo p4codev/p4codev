@@ -97,6 +97,11 @@
 </p>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,azure,bash,bootstrap,cs,cpp)](https://skillicons.dev)
+
+
   
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me
