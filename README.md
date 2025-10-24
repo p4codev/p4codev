@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,linux,netlify,angular,notion,webpack,react,sass,tailwind,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,linux,angular,webpack,react,sass,tailwind &perline=8" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,cs,dotnet,django,flask,laravel,symfony,selenium,mysql,postgres,wordpress,docker,aws,azure,gcp,bash,powershell&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,py,cs,dotnet,django,flask,laravel,symfony,selenium,mysql,postgres,wordpress,docker,aws,azure,gcp,bash,powershell&perline=10" />
   </a>
 </p>
 
