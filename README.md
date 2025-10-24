@@ -33,22 +33,6 @@
 
 
   
-
-
-
-<h4 align="left"> Frontend Development</h4>
-<p align="center"> 
-
-</p>
-  
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-
-
-  
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me
 <p align="center"> 
 <a href="https://dev.to/pacodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pacodev" height="30" width="40" /></a>
 <a href="https://twitter.com/pacodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pacodev" height="30" width="40" /></a>
