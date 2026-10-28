@@ -3,7 +3,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,100:38BDF8&height=230&section=header&text=Alexander%20Coral&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Solutions%20Architect%20%E2%80%A2%20AI%20%26amp%3B%20Data%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,100:38BDF8&height=230&section=header&text=Alexander%20Coral&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Solutions%20Architect%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%" alt="header"/>
 </div>
 
 <div align="center">
