@@ -49,48 +49,62 @@ class AlexanderCoral:
 
 <br/>
 
-## ☁️ Multi-Cloud Arsenal
+## ☁️ Multicloud
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="64" alt="clouds"/>
+  <i>Same blueprint, three providers — pick the box, keep the pattern.</i>
 </div>
 
 <br/>
 
 <table align="center">
   <tr>
-    <th align="center" width="33%">🟠 &nbsp;AWS</th>
-    <th align="center" width="33%">🔵 &nbsp;Google Cloud</th>
-    <th align="center" width="33%">🟦 &nbsp;Azure</th>
+    <th align="left" width="22%">Layer</th>
+    <th align="center" width="26%"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" alt="aws"/><br/><b>AWS</b></th>
+    <th align="center" width="26%"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="44" alt="gcp"/><br/><b>Google Cloud</b></th>
+    <th align="center" width="26%"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="44" alt="azure"/><br/><b>Azure</b></th>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/EC2%20%7C%20Lambda%20%7C%20ECS-FF9900?style=flat-square&logoColor=white" alt="compute"/><br/>
-      <img src="https://img.shields.io/badge/S3%20%7C%20Glue%20%7C%20Athena-FF9900?style=flat-square&logoColor=white" alt="data"/><br/>
-      <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logoColor=white" alt="redshift"/><br/>
-      <img src="https://img.shields.io/badge/Kinesis%20%7C%20SQS%20%7C%20EventBridge-FF4F8B?style=flat-square&logoColor=white" alt="streaming"/><br/>
-      <img src="https://img.shields.io/badge/SageMaker%20%7C%20Bedrock-01A88D?style=flat-square&logoColor=white" alt="ai"/><br/>
-      <img src="https://img.shields.io/badge/IAM%20%7C%20CloudFormation%20%7C%20CDK-DD344C?style=flat-square&logoColor=white" alt="ops"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Compute%20Engine%20%7C%20Cloud%20Run%20%7C%20GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="compute"/><br/>
-      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="bigquery"/>
-      <img src="https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=flat-square&logo=googlecloudstorage&logoColor=black" alt="gcs"/><br/>
-      <img src="https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googledataflow&logoColor=white" alt="dataflow"/>
-      <img src="https://img.shields.io/badge/Composer-4285F4?style=flat-square&logo=googlecloudcomposer&logoColor=white" alt="composer"/><br/>
-      <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlepubsub&logoColor=white" alt="pubsub"/>
-      <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="looker"/><br/>
-      <img src="https://img.shields.io/badge/Vertex%20AI%20%7C%20Gemini-34A853?style=flat-square&logo=googlegemini&logoColor=white" alt="vertex"/><br/>
-      <img src="https://img.shields.io/badge/IAM%20%7C%20Cloud%20Build%20%7C%20gcloud-EA4335?style=flat-square&logo=googlecloud&logoColor=white" alt="ops"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/VMs%20%7C%20Functions%20%7C%20AKS-0078D4?style=flat-square&logoColor=white" alt="compute"/><br/>
-      <img src="https://img.shields.io/badge/Data%20Lake%20%7C%20Blob%20Storage-0078D4?style=flat-square&logoColor=white" alt="storage"/><br/>
-      <img src="https://img.shields.io/badge/Synapse%20%7C%20Fabric-0078D4?style=flat-square&logoColor=white" alt="synapse"/><br/>
-      <img src="https://img.shields.io/badge/Data%20Factory%20%7C%20Event%20Hubs-0078D4?style=flat-square&logoColor=white" alt="adf"/><br/>
-      <img src="https://img.shields.io/badge/Azure%20OpenAI%20%7C%20AI%20Foundry-5E5CE6?style=flat-square&logoColor=white" alt="openai"/><br/>
-      <img src="https://img.shields.io/badge/Entra%20ID%20%7C%20Bicep%20%7C%20DevOps-0078D4?style=flat-square&logoColor=white" alt="ops"/>
-    </td>
+    <td align="left"><b>⚡ Compute</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/EC2%20%C2%B7%20Lambda%20%C2%B7%20ECS-FF9900?style=flat-square&logoColor=white" alt="EC2 · Lambda · ECS"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Compute%20Engine%20%C2%B7%20Cloud%20Run%20%C2%B7%20GKE-4285F4?style=flat-square&logoColor=white" alt="Compute Engine · Cloud Run · GKE"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/VMs%20%C2%B7%20Functions%20%C2%B7%20AKS-0078D4?style=flat-square&logoColor=white" alt="VMs · Functions · AKS"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🪣 Storage & Lake</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/S3%20%C2%B7%20Lake%20Formation-FF9900?style=flat-square&logoColor=white" alt="S3 · Lake Formation"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logoColor=white" alt="Cloud Storage"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Data%20Lake%20Gen2%20%C2%B7%20Blob-0078D4?style=flat-square&logoColor=white" alt="Data Lake Gen2 · Blob"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🏛️ Warehouse</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Redshift%20%C2%B7%20Athena-FF9900?style=flat-square&logoColor=white" alt="Redshift · Athena"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logoColor=white" alt="BigQuery"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Synapse%20%C2%B7%20Fabric-0078D4?style=flat-square&logoColor=white" alt="Synapse · Fabric"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🔀 ETL & Orchestration</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Glue%20%C2%B7%20Step%20Functions-FF9900?style=flat-square&logoColor=white" alt="Glue · Step Functions"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Dataflow%20%C2%B7%20Composer-4285F4?style=flat-square&logoColor=white" alt="Dataflow · Composer"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Data%20Factory%20%C2%B7%20Databricks-0078D4?style=flat-square&logoColor=white" alt="Data Factory · Databricks"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>📡 Streaming</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Kinesis%20%C2%B7%20EventBridge-FF9900?style=flat-square&logoColor=white" alt="Kinesis · EventBridge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pub/Sub-4285F4?style=flat-square&logoColor=white" alt="Pub/Sub"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Event%20Hubs%20%C2%B7%20Service%20Bus-0078D4?style=flat-square&logoColor=white" alt="Event Hubs · Service Bus"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🧠 AI / ML</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/SageMaker%20%C2%B7%20Bedrock-FF9900?style=flat-square&logoColor=white" alt="SageMaker · Bedrock"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vertex%20AI%20%C2%B7%20Gemini-4285F4?style=flat-square&logoColor=white" alt="Vertex AI · Gemini"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Azure%20OpenAI%20%C2%B7%20AI%20Foundry-0078D4?style=flat-square&logoColor=white" alt="Azure OpenAI · AI Foundry"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🔐 IaC & Security</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/IAM%20%C2%B7%20CloudFormation%20%C2%B7%20CDK-FF9900?style=flat-square&logoColor=white" alt="IAM · CloudFormation · CDK"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/IAM%20%C2%B7%20Cloud%20Build%20%C2%B7%20gcloud-4285F4?style=flat-square&logoColor=white" alt="IAM · Cloud Build · gcloud"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Entra%20ID%20%C2%B7%20Bicep%20%C2%B7%20DevOps-0078D4?style=flat-square&logoColor=white" alt="Entra ID · Bicep · DevOps"/></td>
   </tr>
 </table>
 
